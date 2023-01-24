@@ -1,0 +1,25 @@
+{
+  "todos": [
+    {
+      "id": 1670084237795,
+      "product": "food item",
+      "category": "category",
+      "price": "10",
+      "available": "yes"
+    },
+    {
+      "id": 1670128766640,
+      "product": "food item",
+      "category": "category",
+      "price": "10",
+      "available": "yes"
+    },
+    {
+      "id": 1670427834803,
+      "product": "food item",
+      "category": "category",
+      "price": "10",
+      "available": "yes"
+    }
+  ]
+}
